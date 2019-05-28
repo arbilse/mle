@@ -1,4 +1,4 @@
-# Udacity Machine Learning Engineer
+# Udacity Machine Learning Engineer Nanodegree
 ## Term 1 - Completed & Graded Assigments
 
 ### Supervised:
